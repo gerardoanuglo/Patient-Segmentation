@@ -37,8 +37,12 @@ myopia.csv
 
 Tooks Used: 
 
--Jupyter Notebook
--Python
-  -Pandas 
-  -Matplotlib
--S
+1.Jupyter Notebook
+2.Python
+  1.Pandas 
+  2.Matplotlib
+  3.sklearn
+    1.StandardScaler
+    2.PCA
+    3.TSNE
+    4.KMeans
