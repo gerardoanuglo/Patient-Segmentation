@@ -44,22 +44,22 @@ Tooks Used:
 2.Python
 
 
-  1.Pandas 
+3.Pandas 
   
   
-  2.Matplotlib
+4.Matplotlib
   
   
-  3.sklearn
+5.sklearn
   
   
-    1.StandardScaler
+6.StandardScaler
     
     
-    2.PCA
+7.PCA
     
     
-    3.TSNE
+8.TSNE
     
     
-    4.KMeans
+9.KMeans
