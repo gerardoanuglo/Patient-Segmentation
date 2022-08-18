@@ -50,16 +50,13 @@ Tooks Used:
 4.Matplotlib
   
   
-5.sklearn
+5.sklearn.preprocessing.StandardScaler
   
   
-6.StandardScaler
+6.sklearn.decomposition.PCA
     
     
-7.PCA
+7.sklearn.manifold.TSNE
     
     
-8.TSNE
-    
-    
-9.KMeans
+8.sklearn.cluster.KMeans
