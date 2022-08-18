@@ -35,7 +35,7 @@ Part 4: Make a Recommendation
 myopia.csv
 
 
-## Tooks Used: 
+## Tools Used: 
 
 
 1.Jupyter Notebook
